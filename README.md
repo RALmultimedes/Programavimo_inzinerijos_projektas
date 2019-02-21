@@ -1,1 +1,1 @@
-# Programavimo-in-inerijos-projektas
+# Programavimo_inzinerijos_projektas
