@@ -1,0 +1,106 @@
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Liveta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\PuzzleGame_autoPaveiksliukai\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\poRobertos\PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Roberta\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+D:\Alexa\IFZ-7_1\PI\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Liveta\Desktop\puzzleeee\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Antras.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Ketvirtas.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Pirmas.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Trecias.resources
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\Alexa\IFZ-7_1\PI\RALmultimedes puzlas\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
