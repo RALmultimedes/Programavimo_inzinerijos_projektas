@@ -85,6 +85,7 @@ namespace PuzzleGame
                     pirmas1.Hide();
                     antras1.Hide();
                     trecias1.Show();
+                    ketvirtas1.Hide();
                     button2.Show();
                     step++;
                     button1.Text = "Tęsti";

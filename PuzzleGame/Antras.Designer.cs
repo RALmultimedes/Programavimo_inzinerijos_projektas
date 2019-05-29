@@ -50,7 +50,7 @@
             this.groupBoxPuzzle.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBoxPuzzle.Name = "groupBoxPuzzle";
             this.groupBoxPuzzle.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.groupBoxPuzzle.Size = new System.Drawing.Size(400, 400);
+            this.groupBoxPuzzle.Size = new System.Drawing.Size(419, 419);
             this.groupBoxPuzzle.TabIndex = 1;
             this.groupBoxPuzzle.TabStop = false;
             this.groupBoxPuzzle.Text = "groupBox1";
